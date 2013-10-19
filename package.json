@@ -3,5 +3,9 @@
   "name": "skarp",
   "version": "0.0.0",
   "author": "Samuel Ytterbrink",
-  "description": "a editor"
+  "description": "a editor",
+  "dependencies": {
+    "blessed": "0.0.25",
+    "jison": "~0.4.13"
+  }
 }
